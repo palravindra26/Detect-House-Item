@@ -1,0 +1,11 @@
+numpy==1.18.5
+keras_retinanet==0.5.1
+Keras==2.3.1
+streamlit==0.63.1
+matplotlib==3.2.2
+googledrivedownloader
+opencv-python-headless
+git+https://github.com/fizyr/keras-retinanet.git
+tensorflow==1.15.4
+scipy==1.4.1
+setuptools>=41.0.0
